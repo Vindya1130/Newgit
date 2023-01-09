@@ -1,0 +1,16 @@
+total 8
+-rw-r--r-- 1 vindy 197609 2651 Dec 14 18:45 F3.txt
+-rw-r--r-- 1 vindy 197609  151 Dec 14 19:18 F2.txt
+-rw-r--r-- 1 vindy 197609    7 Dec 15 19:28 F4.txt
+-rw-r--r-- 1 vindy 197609   48 Dec 15 20:33 F5.txt
+drwxr-xr-x 1 vindy 197609    0 Dec 16 20:55 D0/
+-rw-r--r-- 1 vindy 197609   94 Dec 16 20:56 f6.txt
+-rw-r--r-- 1 vindy 197609    0 Dec 16 21:08 log.txt
+total 9
+drwxr-xr-x 1 vindy 197609    0 Dec 16 20:55 D0/
+-rw-r--r-- 1 vindy 197609  151 Dec 14 19:18 F2.txt
+-rw-r--r-- 1 vindy 197609 2651 Dec 14 18:45 F3.txt
+-rw-r--r-- 1 vindy 197609    7 Dec 15 19:28 F4.txt
+-rw-r--r-- 1 vindy 197609   48 Dec 15 20:33 F5.txt
+-rw-r--r-- 1 vindy 197609   94 Dec 16 20:56 f6.txt
+-rw-r--r-- 1 vindy 197609  363 Dec 16 21:08 log.txt
